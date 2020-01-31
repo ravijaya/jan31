@@ -1,0 +1,9 @@
+Applications
+
+Tcl is a general-purpose language and you can find Tcl everywhere. It includes,
+
+Scalable websites that are often backed by databases.
+High performance web servers build with TclHttpd.
+Tcl with CGI based websites.
+Desktop GUI applications.
+Embedded applications.

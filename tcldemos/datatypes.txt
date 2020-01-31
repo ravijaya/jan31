@@ -1,0 +1,17 @@
+Datatypes 
+~~~~~~~~~~
+
+Simple Tcl Objects
+  -integer
+  -float
+
+Strings
+
+List (List is nothing but a group of elements) aka (array)
+
+dict aka Hash Maps
+
+Handles  (represent files and graphics objects)
+
+
+
